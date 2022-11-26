@@ -11,23 +11,11 @@
         "activity": "Trekking",
         "diffuculty": "Moderate",
         "tripDescription": "Lorem Epsum dolor sit amet",
-        "subDetails": [
-            {
-                "key": "details",
-                "Value": "Lorem Epsum dolor sit amet"
-            },
-            {
-                "key": "outline",
-                "Value": "Lorem Epsum dolor sit amet"
-            },
-            {
-                "key": "itineraray",
-                "Value": "Lorem Epsum dolor sit amet"
-            },
-            {
-                "key": "costDetails",
-                "Value": "Lorem Epsum dolor sit amet"
-            }
-        ]
+        "subDetails": {
+            "details":"Lorem Epsum dolor sit amet",
+            "outline":"Lorem Epsum dolor sit amet",
+            "itineraray":"Lorem Epsum dolor sit amet",
+            "costDetails":"Lorem Epsum dolor sit amet"
+        }
     }
 }
