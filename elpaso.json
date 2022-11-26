@@ -11,7 +11,7 @@
         "altitude": "5000m",
         "activity": "Trekking",
         "difficulty": "Moderate",
-        "tripDescription": "Lorem Epsum dolor sit amet",
+        "tripDescription": "Plain Text Example &amp; <strong>Bold Text Example</strong>",
         "subDetails": {
             "details":"Lorem Epsum dolor sit amet",
             "outline":"Lorem Epsum dolor sit amet",
