@@ -10,7 +10,7 @@
         "region": "Makalu Region",
         "altitude": "5000m",
         "activity": "Trekking",
-        "diffuculty": "Moderate",
+        "difficulty": "Moderate",
         "tripDescription": "Lorem Epsum dolor sit amet",
         "subDetails": {
             "details":"Lorem Epsum dolor sit amet",
