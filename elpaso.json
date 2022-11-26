@@ -1,5 +1,19 @@
 {
     "data":{
-        "name":"Hello World"
+        "packageDescription":"Makalu Expedition",
+        "bannerImage":"",
+        "packageImage":"",
+        "destination":"Nepal",
+        "duration":"19 Days",
+        "season":"Winter",
+        "region":"Makalu Region",
+        "altitude":"5000m",
+        "activity":"Trekking",
+        "diffuculty":"Moderate",
+        "tripDescription":"Lorem Epsum dolor sit amet",
+        "details":"Lorem Epsum dolor sit amet",
+        "outline":"Lorem Epsum dolor sit amet",
+        "itineraray":"Lorem Epsum dolor sit amet",
+        "costDetails":"Lorem Epsum dolor sit amet"
     }
 }
