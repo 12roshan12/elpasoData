@@ -1,9 +1,9 @@
 {
     "data": {
         "groupName":"manasalu",
-        "packageDescription": "https://raw.githubusercontent.com/12roshan12/elpasoData/main/images/manasalu_package.jpg",
+        "packageDescription": "Manasalu Expedition",
         "bannerImage": "https://raw.githubusercontent.com/12roshan12/elpasoData/main/images/manasalu_banner.jpg",
-        "packageImage": "Manasalu Expedition",
+        "packageImage": "https://raw.githubusercontent.com/12roshan12/elpasoData/main/images/manasalu_package.jpg",
         "destination": "Nepal",
         "duration": "19 Days",
         "season": "Winter",
